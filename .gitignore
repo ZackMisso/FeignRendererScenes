@@ -1,0 +1,7 @@
+*.o
+build/
+.DS_Store
+scenes/old/
+scenes/meshes/neon/
+scenes/meshes/dice/
+*.exr
